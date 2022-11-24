@@ -11,6 +11,10 @@ Fork Deploy is highly recommended
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TgCatUB/nekopack&branch=master&name=catub)
+
+
+
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
    - [@DeletedUser420](https://t.me/DeletedUser420)
